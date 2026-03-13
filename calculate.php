@@ -47,3 +47,7 @@
 47 } else { 
 48 echo "<p>No valid courses entered . </p>"; 
 49 }
+  50 } else { 
+51 echo " Data not received ."; 
+52 } 
+53 ? >
